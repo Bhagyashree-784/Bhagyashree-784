@@ -1,0 +1,11 @@
+loan_id,income_annum,loan_amount,cibil_score,education,self_employed,loan_status
+1,500000,200000,750,Graduate,No,Approved
+2,300000,150000,650,Not Graduate,Yes,Rejected
+3,450000,180000,720,Graduate,No,Approved
+4,250000,120000,600,Not Graduate,Yes,Rejected
+5,700000,300000,800,Graduate,No,Approved
+6,350000,140000,680,Graduate,Yes,Approved
+7,280000,130000,590,Not Graduate,No,Rejected
+8,800000,350000,820,Graduate,No,Approved
+9,400000,160000,710,Graduate,Yes,Approved
+10,220000,100000,580,Not Graduate,No,Rejected
